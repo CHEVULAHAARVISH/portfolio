@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.912eb056.css",
+    "main.js": "/static/js/main.c45d4af4.js",
+    "static/media/intro-bg.jpg": "/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
+    "static/media/NRWWWWW.jpg": "/static/media/NRWWWWW.d4e56b18022e3427d7fb.jpg",
+    "static/media/part2.png": "/static/media/part2.2ea07f8a15fe36fd9ad5.png",
+    "index.html": "/index.html",
+    "main.912eb056.css.map": "/static/css/main.912eb056.css.map",
+    "main.c45d4af4.js.map": "/static/js/main.c45d4af4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.912eb056.css",
+    "static/js/main.c45d4af4.js"
+  ]
+}
