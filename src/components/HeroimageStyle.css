@@ -75,6 +75,21 @@
   ::-webkit-scrollbar-thumb:hover {
     background-color: #555;
   }
+  @media screen and (max-width: 768px) {
+    .into-img{
+        max-width: 90%;
+        margin: auto;
+        background-size: contain;
+        font-size: 1rem;
+    }
+    .hero .content h1{
+        font-size: 1rem;
+    }
+    .hero .content p{
+        font-size: 1rem;
+    }
+    
+  }
   
 
   
